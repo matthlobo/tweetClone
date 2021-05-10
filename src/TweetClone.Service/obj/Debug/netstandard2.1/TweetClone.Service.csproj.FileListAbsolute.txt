@@ -1,0 +1,12 @@
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone.Service\bin\Debug\netstandard2.1\TweetClone.Service.deps.json
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone.Service\bin\Debug\netstandard2.1\TweetClone.Service.dll
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone.Service\bin\Debug\netstandard2.1\TweetClone.Service.pdb
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone.Service\bin\Debug\netstandard2.1\TweetClone.DataAccess.dll
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone.Service\bin\Debug\netstandard2.1\TweetClone.DataAccess.pdb
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone.Service\obj\Debug\netstandard2.1\TweetClone.Service.csprojAssemblyReference.cache
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone.Service\obj\Debug\netstandard2.1\TweetClone.Service.AssemblyInfoInputs.cache
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone.Service\obj\Debug\netstandard2.1\TweetClone.Service.AssemblyInfo.cs
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone.Service\obj\Debug\netstandard2.1\TweetClone.Service.csproj.CoreCompileInputs.cache
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone.Service\obj\Debug\netstandard2.1\TweetClone.Service.csproj.CopyComplete
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone.Service\obj\Debug\netstandard2.1\TweetClone.Service.dll
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone.Service\obj\Debug\netstandard2.1\TweetClone.Service.pdb

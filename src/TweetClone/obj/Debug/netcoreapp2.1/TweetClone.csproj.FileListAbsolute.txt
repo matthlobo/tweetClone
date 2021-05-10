@@ -1,0 +1,5 @@
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone\bin\Debug\netcoreapp2.1\TweetClone.DataAccess.dll
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone\bin\Debug\netcoreapp2.1\TweetClone.Service.dll
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone\obj\Debug\netcoreapp2.1\TweetClone.csprojAssemblyReference.cache
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone\obj\Debug\netcoreapp2.1\TweetClone.AssemblyInfoInputs.cache
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone\obj\Debug\netcoreapp2.1\TweetClone.AssemblyInfo.cs

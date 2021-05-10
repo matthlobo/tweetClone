@@ -1,0 +1,8 @@
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone.DataAccess\bin\Debug\netstandard2.1\TweetClone.DataAccess.deps.json
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone.DataAccess\bin\Debug\netstandard2.1\TweetClone.DataAccess.dll
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone.DataAccess\bin\Debug\netstandard2.1\TweetClone.DataAccess.pdb
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone.DataAccess\obj\Debug\netstandard2.1\TweetClone.DataAccess.AssemblyInfoInputs.cache
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone.DataAccess\obj\Debug\netstandard2.1\TweetClone.DataAccess.AssemblyInfo.cs
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone.DataAccess\obj\Debug\netstandard2.1\TweetClone.DataAccess.csproj.CoreCompileInputs.cache
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone.DataAccess\obj\Debug\netstandard2.1\TweetClone.DataAccess.dll
+C:\Projetos\dotnet-core\TweetClone\TweetClone\TweetClone.DataAccess\obj\Debug\netstandard2.1\TweetClone.DataAccess.pdb
