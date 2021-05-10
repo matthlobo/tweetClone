@@ -1,2 +1,2 @@
 # tweetClone
-A project created with .NET Core
+A project created with .NET Core 3.1 and Entity Framework
